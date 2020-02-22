@@ -1,0 +1,19 @@
+</<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>sample_page</title>
+  </head>
+  <body>
+    <div class="login">
+      <p>ログインID</p>
+      <input class="loginId" type="text" value="">
+      <p>パスワード</p>
+      <input class="loginPass" type="text" value="">
+      <br>
+      <br>
+      <input class="btn" type="submit" value="ログイン">
+      <input class="btn" type="submit" value="パスワード変更">
+    </div>
+  </body>
+</html>
